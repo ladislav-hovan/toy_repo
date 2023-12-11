@@ -6,3 +6,5 @@ def dice_rolls(n):
 
 def d20_dice_rolls(n):
     return np.random.randint(1,21,n)
+
+print (1)
